@@ -1,4 +1,4 @@
 {
-  "prefix": "YOUR_BOT_PREFIX_HERE",
-  "invite_link": "YOUR_BOT_INVITE_LINK_HERE"
+  "prefix": "rk",
+  "invite_link": "https://discord.com/oauth2/authorize?&client_id=1195311289426251796&scope=bot+applications.commands&permissions=1084479764544"
 }
